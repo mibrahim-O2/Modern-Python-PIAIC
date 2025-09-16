@@ -7,7 +7,7 @@ You can open the notebook here:
 
 ---
 
-## 🎯 Objectives
+## 📑 Objectives
 The main objectives of this code are:
 - To build a **Simple Calculator** using Python.  
 - To perform **Addition, Subtraction, Multiplication, and Division**.  
