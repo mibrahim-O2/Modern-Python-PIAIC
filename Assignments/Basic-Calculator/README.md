@@ -3,7 +3,8 @@
 This project contains a beginner-friendly implementation of a **Simple Calculator** in Python.  
 
 You can open the notebook here:  
-👉 [Basic Calculator](Assignments/Basic-Operation-Calculator/Basic_Operations_Calculator.ipynb)
+👉 [Basic Calculator](Assignments/Basic-Calculator/Basic_Operations_Calculator.ipynb)
+
 
 ---
 
