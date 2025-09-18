@@ -2,8 +2,6 @@
 
 This project contains a beginner-friendly implementation of a **Simple Calculator** in Python.  
 ----
-You can open the notebook here:  
-👉 [Basic Calculator](Assignments/Basic-Operation-Calculator/Basic_Calculator_Operations.ipynb)
 
 ## 📑 Objectives
 The main objectives of this code are:
